@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://brnd5ywhymai6"
+path="res://.godot/imported/AdhesiveWombat - Night Shade.mp3-67a0d2a80d8805f71c791f0b61f24188.mp3str"
+
+[deps]
+
+source_file="res://assets/music/AdhesiveWombat - Night Shade.mp3"
+dest_files=["res://.godot/imported/AdhesiveWombat - Night Shade.mp3-67a0d2a80d8805f71c791f0b61f24188.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
